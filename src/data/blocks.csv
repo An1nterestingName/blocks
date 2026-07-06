@@ -1,0 +1,230 @@
+Activator Rail,activator_rail,17
+Anvil,anvil,16
+Beacon,beacon,16
+Bedrock,bedrock,0
+Birch Leaves,birch_leaves,5
+Birch Log,birch_log,5
+Birch Planks,birch_planks,14
+Birch Sapling,birch_sapling,8
+Birch Slab,birch_slab,15
+Birch Stairs,birch_stairs,15
+Birch Wood,birch_wood,15
+Black Carpet,black_carpet,18
+Black Terracotta,black_terracotta,18
+Black Wool,black_wool,5
+Block of Coal,block_of_coal,18
+Block of Emerald,block_of_emerald,15
+Block of Gold,block_of_gold,0
+Block of Iron,block_of_iron,0
+Block of Lapis Lazuli,block_of_lapis_lazuli,5
+Block of Quartz,block_of_quartz,17
+Block of Redstone,block_of_redstone,17
+Blue Carpet,blue_carpet,18
+Blue Terracotta,blue_terracotta,18
+Blue Wool,blue_wool,5
+Bookshelf,bookshelf,0
+Brewing Stand,brewing_stand,12
+Brick Slab,brick_slab,11
+Brick Stairs,brick_stairs,11
+Bricks,bricks,0
+Brown Carpet,brown_carpet,18
+Brown Mushroom,brown_mushroom,0
+Brown Mushroom Block,brown_mushroom_block,11
+Brown Terracotta,brown_terracotta,18
+Brown Wool,brown_wool,5
+Cactus,cactus,0
+Cake,cake,5
+Carved Pumpkin,carved_pumpkin,2
+Cauldron,cauldron,12
+Chest,chest,0
+Chipped Anvil,chipped_anvil,16
+Chiseled Quartz Block,chiseled_quartz_block,17
+Chiseled Sandstone,chiseled_sandstone,14
+Chiseled Stone Bricks,chiseled_stone_bricks,14
+Clay,clay,0
+Coal Ore,coal_ore,0
+Cobblestone,cobblestone,0
+Cobblestone Slab,cobblestone_slab,6
+Cobblestone Stairs,cobblestone_stairs,0
+Cobblestone Wall,cobblestone_wall,16
+Cobweb,cobweb,8
+Cocoa,cocoa,15
+Command Block,command_block,16
+Cracked Stone Bricks,cracked_stone_bricks,11
+Crafting Table,crafting_table,0
+Creeper Head,creeper_head,16
+Cut Sandstone,cut_sandstone,14
+Cyan Carpet,cyan_carpet,18
+Cyan Terracotta,cyan_terracotta,18
+Cyan Wool,cyan_wool,5
+Damaged Anvil,damaged_anvil,16
+Dandelion,dandelion,0
+Daylight Detector,daylight_detector,17
+Dead Bush,dead_bush,9
+Detector Rail,detector_rail,8
+Diamond Ore,diamond_ore,0
+Dirt,dirt,0
+Dispenser,dispenser,5
+Dragon Egg,dragon_egg,12
+Dropper,dropper,17
+Emerald Ore,emerald_ore,15
+Enchanting Table,enchanting_table,12
+End Portal Frame,end_portal_frame,12
+End Stone,end_stone,12
+Ender Chest,ender_chest,15
+Farmland,farmland,0
+Fern,fern,9
+Flower Pot,flower_pot,16
+Furnace,furnace,0
+Glass,glass,0
+Glass Pane,glass_pane,11
+Glowstone,glowstone,2
+Gold Ore,gold_ore,0
+Grass Block,grass_block,0
+Gravel,gravel,0
+Gray Carpet,gray_carpet,18
+Gray Terracotta,gray_terracotta,18
+Gray Wool,gray_wool,5
+Green Carpet,green_carpet,18
+Green Terracotta,green_terracotta,18
+Green Wool,green_wool,5
+Hay Bale,hay_bale,18
+Heavy Weighted Pressure Plate,heavy_weighted_pressure_plate,17
+Hopper,hopper,17
+Ice,ice,0
+Infested Cobblestone,cobblestone,11
+Infested Stone,stone,11
+Infested Stone Bricks,stone_bricks,11
+Iron Bars,iron_bars,11
+Iron Door,iron_door,0
+Iron Ore,iron_ore,0
+Jack o’Lantern,jack_o_lantern,2
+Jukebox,jukebox,0
+Jungle Leaves,jungle_leaves,14
+Jungle Log,jungle_log,14
+Jungle Planks,jungle_planks,14
+Jungle Sapling,jungle_sapling,14
+Jungle Slab,jungle_slab,15
+Jungle Stairs,jungle_stairs,15
+Jungle Wood,jungle_wood,15
+Ladder,ladder,0
+Lapis Lazuli Ore,lapis_lazuli_ore,5
+Lava,lava,0
+Lever,lever,0
+Light Blue Carpet,light_blue_carpet,18
+Light Blue Terracotta,light_blue_terracotta,18
+Light Blue Wool,light_blue_wool,5
+Light Gray Carpet,light_gray_carpet,18
+Light Gray Terracotta,light_gray_terracotta,18
+Light Gray Wool,light_gray_wool,5
+Light Weighted Pressure Plate,light_weighted_pressure_plate,17
+Lily Pad,lily_pad,12
+Lime Carpet,lime_carpet,18
+Lime Terracotta,lime_terracotta,18
+Lime Wool,lime_wool,5
+Magenta Carpet,magenta_carpet,18
+Magenta Terracotta,magenta_terracotta,18
+Magenta Wool,magenta_wool,5
+Melon,melon,11
+Monster Spawner,monster_spawner,0
+Mossy Cobblestone,mossy_cobblestone,0
+Mossy Cobblestone Wall,mossy_cobblestone_wall,16
+Mossy Stone Bricks,mossy_stone_bricks,11
+Mushroom Block,mushroom_block,11
+Mushroom Stem,mushroom_stem,11
+Mycelium,mycelium,12
+Nether Brick Fence,nether_brick_fence,12
+Nether Brick Slab,nether_brick_slab,16
+Nether Brick Stairs,nether_brick_stairs,12
+Nether Bricks,nether_bricks,12
+Nether Quartz Ore,nether_quartz_ore,17
+Netherrack,netherrack,2
+Note Block,note_block,5
+Oak Button,oak_button,16
+Oak Door,oak_door,0
+Oak Fence,oak_fence,0
+Oak Fence Gate,oak_fence_gate,11
+Oak Leaves,oak_leaves,0
+Oak Log,oak_log,0
+Oak Planks,oak_planks,0
+Oak Pressure Plate,oak_pressure_plate,0
+Oak Sapling,oak_sapling,0
+Oak Sign,oak_sign,0
+Oak Slab,oak_slab,15
+Oak Stairs,oak_stairs,0
+Oak Trapdoor,oak_trapdoor,9
+Oak Wood,oak_wood,15
+Obsidian,obsidian,0
+Orange Carpet,orange_carpet,18
+Orange Terracotta,orange_terracotta,18
+Orange Wool,orange_wool,5
+Petrified Oak Slab,oak_slab,6
+Pink Carpet,pink_carpet,18
+Pink Terracotta,pink_terracotta,18
+Pink Wool,pink_wool,5
+Piston,piston,10
+Player Head,player_head,16
+Powered Rail,powered_rail,8
+Purple Carpet,purple_carpet,18
+Purple Terracotta,purple_terracotta,18
+Purple Wool,purple_wool,5
+Quartz Pillar,quartz_pillar,17
+Quartz Slab,quartz_slab,17
+Quartz Stairs,quartz_stairs,17
+Rail,rail,0
+Red Bed,red_bed,6
+Red Carpet,red_carpet,18
+Red Mushroom,red_mushroom,0
+Red Mushroom Block,red_mushroom_block,11
+Red Terracotta,red_terracotta,18
+Red Wool,red_wool,5
+Redstone Comparator,redstone_comparator,17
+Redstone Dust,redstone_dust,0
+Redstone Lamp,redstone_lamp,14
+Redstone Ore,redstone_ore,0
+Redstone Repeater,redstone_repeater,6
+Redstone Torch,redstone_torch,0
+Rose,rose,0
+Sand,sand,0
+Sandstone,sandstone,5
+Sandstone Slab,sandstone_slab,6
+Sandstone Stairs,sandstone_stairs,15
+Short Grass,short_grass,9
+Skeleton Skull,skeleton_skull,16
+Smooth Quartz Block,smooth_quartz_block,17
+Smooth Sandstone,smooth_sandstone,17
+Smooth Stone,smooth_stone_slab,6
+Smooth Stone Slab,smooth_stone_slab,0
+Snow,snow,0
+Snow Block,snow_block,0
+Soul Sand,soul_sand,2
+Sponge,sponge,0
+Spruce Leaves,spruce_leaves,5
+Spruce Log,spruce_log,5
+Spruce Planks,spruce_planks,14
+Spruce Sapling,spruce_sapling,8
+Spruce Slab,spruce_slab,15
+Spruce Stairs,spruce_stairs,15
+Spruce Wood,spruce_wood,15
+Sticky Piston,sticky_piston,10
+Stone,stone,0
+Stone Brick Slab,stone_brick_slab,11
+Stone Brick Stairs,stone_brick_stairs,11
+Stone Bricks,stone_bricks,11
+Stone Button,stone_button,0
+Stone Pressure Plate,stone_pressure_plate,0
+Sugar Cane,sugar_cane,0
+Terracotta,terracotta,18
+TNT,tnt,0
+Trapped Chest,trapped_chest,17
+Tripwire Hook,tripwire_hook,15
+Vines,vines,11
+Water,water,0
+White Carpet,white_carpet,18
+White Terracotta,white_terracotta,18
+White Wool,white_wool,0
+Wither Skeleton Skull,wither_skeleton_skull,16
+Yellow Carpet,yellow_carpet,18
+Yellow Terracotta,yellow_terracotta,18
+Yellow Wool,yellow_wool,5
+Zombie Head,zombie_head,16

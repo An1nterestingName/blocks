@@ -1,0 +1,61 @@
+<!doctype html>
+<head>
+    <title>Blocks</title>
+    <!-- Styles -->
+    <link rel="stylesheet" href="index.css" />
+    <script src="index.js"></script>
+</head>
+<body>
+    <div class="title-container content-container">
+        <h1>Minecraft Block List</h1>
+    </div>
+    <div class="horizontal-container">
+        <div class="select-container">
+            <select name="versions" id="versions" onchange="onDropDownChange()">
+                <option value="-1">Select a version.</option>
+            </select>
+        </div>
+        <div class="content-container">
+            <p id="version-description">
+                Use the menu to select a version of Minecraft: Java Edition.
+                Note that some versions, such as those made obsolete by bugfix
+                patches and versions prior to Alpha, are omitted. Versions after
+                1.5.2 are currently unsupported, but they may become supported
+                in the future. A 'Block' is defined as something that can be put
+                in the inventory and placed. This includes block entities and
+                Creative-exclusive Blocks, but not those that can only be placed
+                in the world with commands.
+            </p>
+        </div>
+    </div>
+    <div id="block-list" class="horizontal-container"></div>
+    <footer class="content-container">
+        <p>Blocks v1.0.0</p>
+        <p>
+            Created by
+            <a href="https://1nteresting.name">An1nterestingName</a>
+        </p>
+        <p>
+            <a href="https://to.1nteresting.name/blocks/info"
+                >Learn more about this site</a
+            >
+        </p>
+        <p>
+            <a href="https://to.1nteresting.name/blocks/repo">Source Code</a>
+            available under <a href="https://mit-license.org/">MIT License</a>
+        </p>
+        <p>
+            Information and images sourced from
+            <a href="https://minecraft.wiki">Minecraft Wiki</a>, available under
+            the
+            <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/"
+                >CC BY-NC-SA 3.0 License</a
+            >
+        </p>
+        <p>
+            I am not associated with Mojang, Microsoft or the Minecraft Wiki in
+            any capacity. This is not an official Minecraft website and is not
+            endorsed by the Minecraft Wiki.
+        </p>
+    </footer>
+</body>

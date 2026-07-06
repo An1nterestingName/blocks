@@ -1,0 +1,14 @@
+{
+  "name": "blocks",
+  "version": "1.0.0",
+  "description": "A Minecraft Block list for many versions.",
+  "license": "MIT",
+  "author": "An1nterestingName",
+  "type": "commonjs",
+  "scripts": {
+    "test": "http-server ./src -p 8080 -c-1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
